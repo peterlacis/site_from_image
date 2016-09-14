@@ -1,0 +1,33 @@
+.h1 {
+	color: blue;
+}
+
+#pgbg {
+	background-color: #cccccc;
+}
+
+/*#tbbg {*/
+	
+/*}*/
+
+/*#tr_padding {
+	margin-top: 10px;
+}*/
+
+.tdbg {
+	background-color: #ffffff;
+	border-spacing: 5px;
+	border-style: dotted;
+	border-color: blue;
+	border-width: thin;
+	padding: 20px;
+	vertical-align: top;
+}
+
+#center_padding {
+	padding: 15px 0 0 0;
+}
+
+.text_center {
+	text-align: center;
+}
